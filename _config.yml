@@ -106,8 +106,8 @@ analytics:
 # Site Author
 author:
   name             : "JJINY"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Tech : IOS, CV"
+  avatar           : "/assets/images/identicon1.jpg"
+  bio              : "iOS,Web,AI"
   location         : "South Korea"
   email            :
   links:
