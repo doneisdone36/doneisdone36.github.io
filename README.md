@@ -1,2 +1,2 @@
 # JJINY.github.io
-JJINY Tech Dev 
+[JJINY Tech Dev](doneisdone36.github.io)
